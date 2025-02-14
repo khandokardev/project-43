@@ -28,6 +28,12 @@ ul,ol{
     border: 1px solid;
     border-color: #6A55EA;
 }
+.common-button:hover{
+    background: #ffffff;
+    color: #6A55EA;
+    border: 1px solid;
+    border-color: #6A55EA;
+}
 h1,h2,h3,h4,h5,h6{
     font-family: "Poppins", serif;
     font-weight: 600px;
